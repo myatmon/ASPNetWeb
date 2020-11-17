@@ -1,0 +1,7 @@
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\bin\ASPNet.dll.config
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\bin\ASPNet.dll
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\bin\ASPNet.pdb
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\obj\Debug\ASPNet.csprojAssemblyReference.cache
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\obj\Debug\ASPNet.csproj.CoreCompileInputs.cache
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\obj\Debug\ASPNet.dll
+C:\WebApplication\aspnetweb\ASPNetWeb\ASPNet\obj\Debug\ASPNet.pdb
