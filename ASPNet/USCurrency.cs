@@ -4,7 +4,7 @@ using System.Web;
 
 namespace ASPNet
 {
-    public class USCurrency : Currency
+    public class USCurrency : Currencies
     {
         public string getCurrency()
         {

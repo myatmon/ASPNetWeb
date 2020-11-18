@@ -1,13 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Web;
 
 namespace ASPNet
 {
-    interface Currency
+    public class Currency
     {
-        public string getCurrency();
+        private string currencyID;
 
-        public string getSymbol();
+        private string currencyCode;
+
+        private string currencyName;
+
+        private string createDate;
+
+        private string modifyDate;
+
+        public string CurrencyID { get => currencyID; set => currencyID = value; }
+        public string CurrencyCode { get => currencyCode; set => currencyCode = value; }
+        public string CurrencyName { get => currencyName; set => currencyName = value; }
+        public string CreateDate { get => createDate; set => createDate = value; }
+        public string ModifyDate { get => modifyDate; set => modifyDate = value; }
     }
 }
