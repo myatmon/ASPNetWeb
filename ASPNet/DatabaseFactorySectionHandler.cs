@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Web;
 using System.Configuration;
 
+/*
+ * http://www.primaryobjects.com/2007/11/16/implementing-a-database-factory-pattern-in-c-asp-net/
+ */
 namespace ASPNet
 {
     public class DatabaseFactorySectionHandler : ConfigurationSection
