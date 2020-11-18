@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Web;
-
+/*
+ * http://www.primaryobjects.com/2007/11/16/implementing-a-database-factory-pattern-in-c-asp-net/
+ */
 namespace ASPNet
 {
     public abstract class Database
