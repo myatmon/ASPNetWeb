@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Web;
 
-namespace ASPNet
+namespace WebApi.utility
 {
-    public class MapStatus
+    public class StatusMapping
     {
         public string getStatus(string value)
         {
             return getMap()[value];
         }
 
-        private Dictionary<String,String> getMap()
+        private Dictionary<String, String> getMap()
         {
             var map = new Dictionary<string, string>();
             map.Add(GlobalParameter.APPROVED, GlobalParameter.A);

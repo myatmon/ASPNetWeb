@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Web;
-
-namespace ASPNet
+﻿namespace ASPNet
 {
     public static class GlobalParameter
     {
@@ -19,23 +15,6 @@ namespace ASPNet
         public const string USD = "USD";
 
         public const string EUR = "EUR";
-
-        //Status
-        public const string APPROVED = "Approved";
-
-        public const string FAILED = "Failed";
-
-        public const string REJECTED = "Rejected";
-
-        public const string FINISHED = "Finished";
-
-        public const string DONE = "Done";
-
-        public const string A = "A";
-
-        public const string R = "R";
-
-        public const string D = "D";
-     
+   
     }
 }
